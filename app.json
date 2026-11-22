@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Pamba Cabs",
+    "slug": "pamba-cabs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "in.pambacabs.app",
+      "versionCode": 1
+    }
+  }
+}
